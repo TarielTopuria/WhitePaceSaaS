@@ -83,11 +83,6 @@ Alternative hosting: Netlify, Vercel, or any static host — point it to the rep
 - Keep contrast in mind when adjusting colors
 - Optimize images if you replace them with larger assets (e.g., compress PNG/JPG or use WebP)
 
-## Screenshots
-You can add screenshots to this section. Example hero art reference:
-
-![Hero](img/hero-image.png)
-
 ## License
 No license is provided by default. If you intend to open-source this, add a LICENSE file (e.g., MIT, Apache-2.0) and update this section accordingly.
 
